@@ -1,0 +1,19 @@
+name = "wg-embedded-hal"
+subteam-of = "wg-embedded"
+wg = true
+
+[people]
+leads = []
+members = [
+    "thejpster",
+    "ryankurte",
+    "therealprof",
+    "ithinuel",
+]
+
+[website]
+name = "Embedded HAL team"
+description = "Develops and maintains crates that ease the development of Hardware Abstraction Layers, Board Support Crates and drivers"
+
+[github]
+orgs = ["rust-lang"]

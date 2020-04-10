@@ -1,0 +1,17 @@
+name = "wg-embedded-cortex-r"
+subteam-of = "wg-embedded"
+wg = true
+
+[people]
+leads = []
+members = [
+    "japaric",
+    "paoloteti",
+]
+
+[website]
+name = "Embedded Cortex-R team"
+description = "Develops and maintains the core of the Cortex-R crate ecosystem "
+
+[github]
+orgs = ["rust-lang"]
